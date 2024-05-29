@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+
+}
+.box1 {
+    background-color: bisque;
+    width: 1200px;
+    padding: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;  
+}
+.box2 {
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    padding: 30px;
+    border: solid 5px solid;
+    border-radius: 20px;
+    box-shadow: unset;
+
+}
+i {
+    margin: 30px 50px 50px 65px;
+   font-size: 80px !important;
+    color: red;
+}
+button {
+    background-color: orange;
+    color: white;
+    margin: 10px 20px 10px 50px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+}
